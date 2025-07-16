@@ -1,1 +1,3 @@
 # Student-attendance-tracker
+
+This project aims to develop a web-based Attendance Tracker App for our college to replace the current manual register system. The application will allow faculty members to mark and manage student attendance digitally. It will include features like student-wise attendance logs, subject-wise records, date filtering, real-time updates, and admin access for report generation. The goal is to improve efficiency, minimize errors, and maintain a digital record that is easy to access and analyze. The app will be developed using modern web technologies like HTML, CSS, JavaScript, and a backend framework such as Node.js or PHP, along with a database like MySQL or MongoDB.
